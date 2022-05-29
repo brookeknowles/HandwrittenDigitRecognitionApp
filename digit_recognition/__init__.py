@@ -1,0 +1,2 @@
+from .RecognitionApplication.RecognitionApplication import RecognitionController as RecognitionApplication
+from .DatasetApplication.DatasetApplication import DatasetController as DatasetApplication

@@ -1,0 +1,9 @@
+PyQt6~=6.0.3
+PyQt6-Qt6~=6.0.2
+PyQt6-sip~=13.0.1
+pillow~=8.1.2
+pyqtgraph~=0.12.0
+click~=7.1.2
+numpy~=1.19.2
+requests~=2.25.1
+tensorflow~=2.5.0rc1
